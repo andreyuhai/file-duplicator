@@ -1,0 +1,4 @@
+/home/burak/Downloads/CLion-2018.3.1/clion-2018.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/burak/CLionProjects/fileDuplicator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/burak/CLionProjects/fileDuplicator/cmake-build-debug

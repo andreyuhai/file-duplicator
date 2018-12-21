@@ -1,0 +1,3 @@
+/home/burak/CLionProjects/fileDuplicator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/burak/CLionProjects/fileDuplicator/cmake-build-debug/CMakeFiles/fileDuplicator.dir
+/home/burak/CLionProjects/fileDuplicator/cmake-build-debug/CMakeFiles/edit_cache.dir

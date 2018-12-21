@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/burak/CLionProjects/fileDuplicator/main.c
+stdio.h
+-
+pthread.h
+-
+stdlib.h
+-
+aio.h
+-
+string.h
+-
+fcntl.h
+-
+errno.h
+-
+unistd.h
+-
+
