@@ -7,6 +7,14 @@ This program duplicates any source.txt into destination.txt using asynchronous r
 
 #### Usage: 
 
+Compile with:
+
+`gcc main.c -pthread -lrt -o main`
+
+
+If you get any warnings you can add `-w`
+
+
 `./main <source_path> <destination_path> <number_of_threads>`
 
 
